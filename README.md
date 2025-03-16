@@ -4,11 +4,15 @@
 
 # Hey Everyone! 👋
 
-------------------
+---
 
 ## Who Am I? 🔍
 
 My name is Adolfo Alejandro Arenas Ramos (**A³R**), I'm a Junior developer, student of the Francisco de Paula Santander University, and someone with a curious and artistic spirit.
+
+## Where Am I? 🚩
+
+I've born at the Bolivarian Republic of Venezuela.
 
 ## My Social Networks 👀
 
@@ -20,9 +24,15 @@ My name is Adolfo Alejandro Arenas Ramos (**A³R**), I'm a Junior developer, stu
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-@A--cubica--R-blue?style=social&logo=inspire)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BsZaSk%2FlS8i%2BxArI%2FXc%2FyA%3D%3D)
 
-## Where Am I? 🚩
+## My stats 🧮
 
-I've born at the Bolivarian Republic of Venezuela.
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=a-cubica-r&show_icons=true&theme=synthwave&bg_color=00000000&title_color=FF0000" 
+  media="(prefers-color-scheme: light)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=a-cubica-r&show_icons=true&theme=synthwave&title_color=FF0000" 
+  media="(prefers-color-scheme: dark)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!-- **A-cubica-R/A-cubica-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,4 +60,3 @@ Here are some ideas to get you started:**
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
