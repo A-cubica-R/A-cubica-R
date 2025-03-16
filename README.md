@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./images/A³R.png" alt="A³R" style="aspect-ratio:1/1; width: 500px;">
+  <img src="./images/A³R.png" alt="A³R" style="aspect-ratio:1/1; width: 300px;">
 </div>
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 
 # Hey Everyone! 👋
 <!--
