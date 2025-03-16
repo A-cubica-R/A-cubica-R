@@ -27,10 +27,7 @@ I've born at the Bolivarian Republic of Venezuela.
 ## My stats 🧮
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=a-cubica-r&show_icons=true&theme=synthwave&bg_color=00000000&title_color=FF0000" 
-  media="(prefers-color-scheme: light)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=a-cubica-r&show_icons=true&theme=synthwave&title_color=FF0000" 
-  media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=a-cubica-r&show_icons=true&theme=synthwave&&bg_color=00000000&title_color=FF0000"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
