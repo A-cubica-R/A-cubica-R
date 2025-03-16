@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="./images/A³R.png" alt="A³R" style="aspect-ratio:1/1; width: 300px;">
+  <img src="images/A³R-v2.png" alt="A³R" style="aspect-ratio:1/1; width: 300px;">
 </div>
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-
 # Hey Everyone! 👋
-<!--
+
 **A-cubica-R/A-cubica-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:**
@@ -18,4 +16,4 @@ Here are some ideas to get you started:**
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
