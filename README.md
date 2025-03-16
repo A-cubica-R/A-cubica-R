@@ -26,14 +26,20 @@ I've born at the Bolivarian Republic of Venezuela.
 
 ## My stats 🧮
 
+[![wakatime](https://wakatime.com/badge/user/e4c847d9-6260-4cae-a362-bcd4eec7a65d.svg)](https://wakatime.com/@e4c847d9-6260-4cae-a362-bcd4eec7a65d)
+
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=a-cubica-r&show_icons=true&theme=synthwave&&bg_color=00000000&title_color=FF0000"/>
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a-cubica-r&size_weight=1&count_weight=1"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a-cubica-r&size_weight=1&count_weight=1&layout=donut"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=1&count_weight=1"/>
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=a_cubica_r"/>
+    <img src=""/>
   </picture>
 </div>
 
