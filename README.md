@@ -18,11 +18,11 @@ I've born at the Bolivarian Republic of Venezuela.
 
 ### Usually I'm more active on...
 
-[![Static Badge](https://img.shields.io/badge/Instagram-@A.cubica.R-blue?style=social&logo=instagram)](https://www.instagram.com/a.cubica.r)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/a.cubica.r)
 
 ### But you can find me also on...
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-@A--cubica--R-blue?style=social&logo=inspire)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BsZaSk%2FlS8i%2BxArI%2FXc%2FyA%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BsZaSk%2FlS8i%2BxArI%2FXc%2FyA%3D%3D) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Adolfoalejandroarenasramos@outlook.com)
 
 ## My stats 🧮
 
