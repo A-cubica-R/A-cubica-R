@@ -1,5 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <img src="./images/A³R.png" alt="A³R">
+</div>
 
+# Hey Everyone! 👋
 <!--
 **A-cubica-R/A-cubica-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
