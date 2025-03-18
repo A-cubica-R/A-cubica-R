@@ -38,7 +38,7 @@ I've born at the Bolivarian Republic of Venezuela.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=1&count_weight=1"/>
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=a_cubica_r"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=a_cubica_r&v=2"/>
     <img src=""/>
   </picture>
 </div>
